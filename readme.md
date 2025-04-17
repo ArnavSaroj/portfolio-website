@@ -27,14 +27,13 @@ A modern, responsive portfolio website showcasing my web development work and pr
 
 ## 🔗 Live Links
 
-- GitHub Repository: [Your GitHub Repo Link]
-- Live Website: [Your Deployed Website Link]
+- GitHub Repository: https://github.com/ArnavSaroj/portfolio-website
+- Live Website: [coming soon!!]
 
 ## 📋 Setup
 
 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/repository-name.git
+```bash: https://github.com/ArnavSaroj/portfolio-website
 ```
 
 2. Open the project folder in your code editor
