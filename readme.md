@@ -45,5 +45,5 @@ A modern, responsive portfolio website showcasing my web development work and pr
 
 Arnav Saroj
 - Email: arnavsaroj42@gmail.com
-- LinkedIn: [Arnav Saroj](www.linkedin.com/in/arnav-saroj-809324322)
-- GitHub: [ArnavSaroj](https://github.com/ArnavSaroj)
+- LinkedIn: (www.linkedin.com/in/arnav-saroj-809324322)
+- GitHub:(https://github.com/ArnavSaroj)
